@@ -1,0 +1,11 @@
+light_control.c:10:6:clearAll_Led	8	static
+light_control.c:18:6:setAll_Led	8	static
+light_control.c:26:6:blinkRed_Led	8	static
+light_control.c:34:6:blinkYellow_Led	8	static
+light_control.c:42:6:blinkGreen_Led	8	static
+light_control.c:51:6:setRed1	8	static
+light_control.c:56:6:setYellow1	8	static
+light_control.c:61:6:setGreen1	8	static
+light_control.c:67:6:setRed2	8	static
+light_control.c:72:6:setYellow2	8	static
+light_control.c:77:6:setGreen2	8	static
